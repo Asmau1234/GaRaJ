@@ -1,0 +1,43 @@
+{
+  "friends": [
+    {
+    
+	  "userID": "01",
+      "email": "shady954lyf@yahoo.com",
+      "friendslist": [
+          {
+              "name": "ali",
+			  "image":"imageURL"
+          },
+          {
+              "name": "can",
+			  "image":"imageURL"
+          },
+          {
+              "name": "mert",
+			  "image":"imageURL"
+          }
+      ]
+  },
+    {
+    
+	  "userID": "02",
+      "email": "elifcan@yahoo.com",
+      "friendslist": [
+          {
+              "name": "hatice",
+			  "image":"imageURL"
+          },
+          {
+              "name": "merve",
+			  "image":"imageURL"
+          },
+          {
+              "name": "sinan",
+			  "image":"imageURL"
+		  }
+      ]
+    }
+	
+	]
+	}

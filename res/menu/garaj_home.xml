@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings">
+        <item
+            android:id="@+id/signout"
+            android:showAsAction="never"
+            android:title="@string/signout"/>
+         <item
+            android:id="@+id/refresh"
+            android:showAsAction="never"
+            android:title="@string/refresh"/>
+    </item>
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/profile"
+        android:showAsAction="always|withText"
+        android:title="@string/profile"/>
+    <item
+        android:id="@+id/messages"
+        android:icon="@drawable/messages"
+        android:showAsAction="always|withText"
+        android:title="@string/messages"/>
+    <item
+        android:id="@+id/friends"
+        android:icon="@drawable/friends"
+        android:showAsAction="always|withText"
+        android:title="@string/friends"/>
+
+</menu>

@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "Asmau",
+	  "surname": "Aliyu",
+	  "userID": "01",
+	  "age":"22",
+	  "city":"Istanbul",
+      "email": "shady954lyf@yahoo.com",
+      "password": "hello",
+	  "profile_picture": "imageURLgoeshere",
+	  "datejoined": 121212
+      
+    },
+    {
+      "name": "Shaheedah",
+	  "surname": "Muktar",
+	  "userID": "02",
+	  "age":"22",
+	  "city":"Istanbul",
+      "email": "amaliyu@yahoo.com",
+      "password": "monkey",
+	  "profile_picture": "imageURLgoeshere",
+	  "datejoined": 121212
+      
+    }
+	]
+	}

@@ -1,0 +1,89 @@
+{
+  "messages": [
+    {
+    
+	  "userID": "01",
+      "email": "shady954lyf@yahoo.com",
+      "sentmessages": [
+          {
+              "receiver": "ali",
+			  "message":"imageURL"
+          },
+          {
+              "receiver": "can",
+			  "message":"imageURL"
+          },
+          {
+              "receiver": "mert",
+			  "message":"imageURL"
+          }
+		  ],
+		      "receivedmessages": [
+		          {
+		              "sender": "ali",
+					  "image": "imageURL",
+					  "title": "hello",
+					  "date": "2014-12-11",
+					  "message":"hi there"
+		          },
+		          {
+		              "sender": "can",
+					  "image": "imageURL",
+					  "title": "hello",
+					  "date": "2014-12-11",
+					  "message":"hi there"
+		          },
+		          { "sender": "mert",
+					  "image": "imageURL",
+					  "title": "hello",
+					  "date": "2014-12-11",
+					  "message":"hi there"
+		          }
+	      ]
+	      
+  },
+    {
+    
+	  "userID": "02",
+      "email": "elifcan@yahoo.com",
+      "sentmessages": [
+          {
+              "receiver": "hatice",
+			  "messsage":"imageURL"
+          },
+          {
+              "receiver": "merve",
+			  "message":"imageURL"
+          },
+          {
+              "receiver": "sinan",
+			  "message":"imageURL"
+		  }
+      ],
+	      "receivedmessages": [
+	          {
+	              "sender": "hatice",
+				  "image": "imageURL",
+				  "title": "hello",
+				  "date": "2014-12-11",
+				  "message":"hi there"
+	          },
+	          {
+	              "sender": "merve",
+				  "image": "imageURL",
+				  "title": "hello",
+				  "date": "2014-12-11",
+				  "message":"hi there"
+	          },
+	          { 
+				  	  "sender": "sinan",
+					  "image": "imageURL",
+					  "title": "hello",
+					  "date": "2014-12-11",
+					  "message":"hi there"
+	          }
+      ]
+    }
+	
+	]
+	}

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GaRaJ</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Sign In Your Credentials</string>
+    <string name="username">Kullanıcı Adı:</string>
+    <string name="password">Şifre:</string>
+    <string name="signin">Oturum Aç</string>
+    <string name="signup">Sign Up</string>
+    <string name="title_activity_garaj_home">GaRaJ</string>
+    <string name="button_ajanda">Ajanda</string>
+    <string name="button_ilanlar">Ilanlar</string>
+    <string name="button_rehber">Rehber</string>
+    <string name="title_activity_ajanda">Ajanda</string>
+    <string name="title_activity_rehber">Rehber</string>
+    <string name="title_activity_ilanlar">Ilanlar</string>
+    <string name="chckbox_pano">Pano</string>
+    <string name="chckbox_yetkin">Yetkin</string>
+    <string name="chckbox_sehir">Şehir</string>
+    <string name="profile">Profil</string>
+    <string name="messages">Mesajlar</string>
+    <string name="friends">Arkadaşlar</string>
+    <string name="signout">Oturumu Kapat</string>
+    <string name="title_activity_profile">Profil</string>
+    <string name="title_activity_messages">Mesaj</string>
+    <string name="title_activity_friends">Arkadaşlar</string>
+    <string name="title_activity_sign_out">SignOut</string>
+    <string name="refresh">Refresh</string>
+
+    <string-array name="pano_array">
+        <item>Alinik</item>
+        <item>Satilik</item>
+        <item>Muzisyen Arayan</item>
+        <item>Grup Arayan</item>
+        <item>Ders Isteyen</item>
+        <item>Ders Veren</item>
+        <item>İş Arayan</item>
+        <item>İş Veren</item>
+        <item>Hizmet Isteyen</item>
+        <item>Hizmet Veren</item>
+        <item>Diğer Ilanlar </item>
+    </string-array>
+    <string-array name="yetkin_array">
+        <item>Akustik Davul</item>
+        <item>Akustik Guitar</item>
+        <item>Banjo</item>
+    </string-array>
+    <string-array name="sehir_array">
+        <item>Adana</item>
+        <item>Adıyaman</item>
+        <item>Afyon</item>
+        <item>Ağrı</item>
+        <item>Amasya</item>
+        <item>Ankara</item>
+        <item>Antalya</item>
+        <item>Artvin</item>
+        <item>Aydın</item>
+        <item>Balıkesir</item>
+        <item>Bilecik</item>
+        <item>Bingöl</item>
+        <item>Bitlis</item>
+        <item>Bolu</item>
+        <item>Burdur</item>
+        <item>Bursa</item>
+        <item>Çanakkale</item>
+        <item>Çankırı</item>
+        <item>Çorum</item>
+        <item>Denizli</item>
+        <item>Diyarbakır</item>
+        <item>Edirne</item>
+        <item>Elazığ</item>
+        <item>Erzincan</item>
+        <item>Erzurum</item>
+        <item>Eskişehir</item>
+        <item>Gaziantep</item>
+        <item>Giresun</item>
+        <item>Gümüşhane</item>
+        <item>Hakkari</item>
+        <item>Hatay</item>
+        <item>Isparta</item>
+        <item>Mersin</item>
+        <item>İstanbul</item>
+        <item>İzmir</item>
+        <item>Kars</item>
+        <item>Kastamonu</item>
+        <item>Kayseri</item>
+        <item>Kırklareli</item>
+        <item>Kırşehir</item>
+        <item>Kocaeli</item>
+        <item>Konya</item>
+        <item>Kütahya</item>
+        <item>Malatya</item>
+        <item>Manisa</item>
+        <item>Kahramanmaraş</item>
+        <item>Mardin</item>
+        <item>Muğla</item>
+        <item>Muş</item>
+        <item>Nevşehir</item>
+        <item>Niğde</item>
+        <item>Ordu</item>
+        <item>Rize</item>
+        <item>Sakarya</item>
+        <item>Samsun</item>
+        <item>Siirt</item>
+        <item>Sinop</item>
+        <item>Sivas</item>
+        <item>Tekirdağ</item>
+        <item>Tokat</item>
+        <item>Trabzon</item>
+        <item>Tunceli</item>
+        <item>Şanlıurfa</item>
+        <item>Uşak</item>
+        <item>Van</item>
+        <item>Yozgat</item>
+        <item>Zonguldak</item>
+        <item>Aksaray</item>
+        <item>Bayburt</item>
+        <item>Karaman</item>
+        <item>Kırıkkale</item>
+        <item>Batman</item>
+        <item>Şırnak</item>
+        <item>Bartın</item>
+        <item>Ardahan</item>
+        <item>Iğdır</item>
+        <item>Yalova</item>
+        <item>Karabük</item>
+        <item>Kilis</item>
+        <item>Osmaniye</item>
+        <item>Düzce</item>
+        <item>Diğer</item>
+    </string-array>
+
+    <string name="title_activity_ajanda_display">AjandaDisplay</string>
+    <string name="title_activity_rehber_display">RehberDisplay</string>
+    <string name="name">Nick: </string>
+    <string name="age">Yaş: </string>
+    <string name="lastlogin">Son ziyaret</string>
+    <string name="datejoined">Kayıt tarihi</string>
+    <string name="city">Şehir: </string>
+    <string name="title_activity_display_messages">DisplayMessages</string>
+    <string name="sender">Kimden: </string>
+    <string name="messagedate">Tarihi: </string>
+    <string name="subject">Konu: </string>
+    <string name="title_activity_ilan_display">IlanDisplay</string>
+    <string name="tanitim">Tanitim: </string>
+    <string name="ilgi">Ilgi: </string>
+    <string name="entruman">Enstruman: </string>
+    <string name="urlprofile">Profile Url: </string>
+    <string name="title_activity_friends_display">FriendsDisplay</string>
+    <string name="go">Search From Date</string>
+    <string name="ok_button">OK</string>
+    <string name="next">Next </string>
+    <string name="previous">Previous </string>
+    <string name="search">Search </string>
+    <string name="urlilan">Url_Ilan: </string>
+    <string name="ilanfiyat">Fiyat: </string>
+    <string name="ilanaciklama">Aciklama: </string>
+    <string name="ilanYer">Yer: </string>
+    <string name="ilanTarih">Tarih: </string>
+    <string name="urlfacebook">Facebook Url: </string>
+    <string name="yer">Yer : </string>
+    <string name="aciklama">Aciklama: </string>
+    <string name="urlEtkinlik">Etkinlik Url: </string>
+    <string name="title_activity_search_ilan">Search Results</string>
+
+</resources>

@@ -1,0 +1,64 @@
+{
+  "rehber": [
+    {
+      "title": "Studyo News",
+	  "image": "abcd",
+      "date": 121212,
+	  "address":"private drive",
+	  "telephone":1234567890,
+	  "description":"asdfgh",
+	  "category": "studyolari",
+	  "lat": 29.12344,
+	  "lang": 32.10192
+      
+    },
+    {
+      "title": "Egitim News",
+	  "image": "abcd",
+      "date": 121212,
+	  "address":"private drive",
+	  "telephone":1234567890,
+	  "description":"asdfgh",
+	  "category": "egitim kurumlari",
+	  "lat": 29.12344,
+	  "lang": 32.10192
+      
+    },
+    {
+      "title": "Mekan News",
+	  "image": "abcd",
+      "date": 121212,
+	  "address":"private drive",
+	  "telephone":1234567890,
+	  "description":"asdfgh",
+	  "category": "mekanlar",
+	  "lat": 29.12344,
+	  "lang": 32.10192
+      
+    },
+    {
+      "title": "Grup News",
+	  "image": "abcd",
+      "date": 121212,
+	  "address":"private drive",
+	  "telephone":1234567890,
+	  "description":"asdfgh",
+	  "category": "gruplar",
+	  "lat": 29.12344,
+	  "lang": 32.10192
+      
+    },
+    {
+      "title": "Muzisyen News",
+	  "image": "abcd",
+      "date": 121212,
+	  "address":"private drive",
+	  "telephone":1234567890,
+	  "description":"asdfgh",
+	  "category": "muzisyenlar",
+	  "lat": 29.12344,
+	  "lang": 32.10192
+      
+    }
+	]
+	}
